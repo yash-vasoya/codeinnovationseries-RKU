@@ -7,10 +7,7 @@ contents of our project directory:- HTML,CSS,JAVA,PHP,
 Ways to host our project on the localhost:- We make application like user/person who helps to wounded or ill animals than the person /user download the application and 
                                             he Enter his name, phone number, email address, location of illness/wounded animals and it’s picture.
 
-Team Members:- -------------------------------------------
-               |      Name      |         Email          |
-               -------------------------------------------
-               |  Yash Vasoya   |  yvasoya478@rku.ac.in  |
-               |  Dharvi Kotak  |  dkotak006@rku.ac.in   |
-               |  Krishna Khunt |  kkhunt288@rku.ac.in   |
-               |   Raj Vasoya   |  rvasoya618@rku.ac.in  |
+Team Members:- |  Yash Vasoya   ->  yvasoya478@rku.ac.in  |
+               |  Dharvi Kotak  ->  dkotak006@rku.ac.in   |
+               |  Krishna Khunt ->  kkhunt288@rku.ac.in   |
+               |   Raj Vasoya   ->  rvasoya618@rku.ac.in  |
